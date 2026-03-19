@@ -1,4 +1,4 @@
-# Timothy Waldin
+# Twaldin
 
 Sophomore at Purdue University's Polytechnic Institute studying Web Programming & Design. Based in San Francisco, CA.
 
@@ -15,13 +15,11 @@ I build full-stack web applications, embedded systems, and low-level software. M
 
 ---
 
-### Selected Projects
+### Projects
 
 **[term-site](https://tim.waldin.net)** — Terminal-based portfolio website. Visitors get isolated Docker containers and interact through a browser shell built with Next.js, Socket.IO, and xterm.js.
 
-**[StudySpot](https://studyspot.us)** — AI-powered study platform I co-founded. Uses Claude AI with RAG and pgvector for document-grounded Q&A. Built on Next.js and Cloudflare Workers.
-
-**BellyBot** — Multi-threaded C++ algorithmic trading system. Connects to the Coinbase WebSocket feed for real-time market data and executes high-frequency trading strategies.
+**[StudySpot](https://studyspot.us)** — AI-powered study platform I co-founded, no longer working there/involved. Uses Claude AI with RAG and pgvector for document-grounded Q&A. Built on Next.js and Cloudflare Workers.
 
 **[stm32-games](https://github.com/twaldin/stm32-games)** — Bare-metal C handheld game console on an STM32 microcontroller with a custom SPI display driver. No OS, no HAL.
 
