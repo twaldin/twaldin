@@ -1,4 +1,4 @@
-# Twaldin
+# twaldin
 
 Sophomore at Purdue University's Polytechnic Institute studying Web Programming & Design. Based in San Francisco, CA.
 
