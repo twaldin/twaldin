@@ -11,7 +11,7 @@
 
 Web programming & design @ Purdue. Based in SF.
 
-Most of my time right now goes toward [trade-up-bot](https://tradeupbot.app) and looking for summer 2026 internships.
+Most of my time right now goes toward [trade-up-bot](https://tradeupbot.app), [openfleet](https://github.com/twaldin/openfleet) and looking for summer 2026 internships.
 
 [![Portfolio](https://img.shields.io/badge/tim.waldin.net-000?style=flat-square&logo=googlechrome&logoColor=white)](https://tim.waldin.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/twaldin)
